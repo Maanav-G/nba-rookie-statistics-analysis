@@ -1,5 +1,6 @@
 # NBA Rookie Statistics
 
+![nba-rookies_animated](https://images.complex.com/complex/images/c_scale,q_auto,w_1920/fl_lossy,pg_1/o54hhvsfb4ahjfxyfx6h/2019-nba-draft-comparisons-lead-image)
 
 ### Summary
 A mathematical machine learning model designed to predict the regular season averaging statistics for incoming rookies, by applying the trend of all the NBA player’s (1980 - 2018) college careers compared to their first season in the league, to the 2019 rookies college career statistics. I built this model using Python, and I’m currently working on a UI to display the calculated data. 
