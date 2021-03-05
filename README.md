@@ -5,7 +5,7 @@
 I tossed these numbers into a pretty simple dashboard - <a href="https://maanavgarg.com/nba-dashboard" target="_blank">Check it out here</a>
 
 ### Summary
-A mathematical machine learning model designed to predict the regular season averaging statistics for incoming rookies, by applying the trend of all the NBA player’s (1980 - 2018) college careers compared to their first season in the league, to the 2019 rookies college career statistics. I built this model using Python, and I’m currently working on a UI to display the calculated data. 
+A mathematical machine learning model designed to predict the regular season averaging statistics for incoming rookies, by applying the trend of all the NBA player’s (1980 - 2018) college careers compared to their first season in the league, to the 2019 rookies college career statistics.  I built this model using Python and Jupyter Notebook. 
 
 ### Data Preparation 
 Before actually playing with and analyzing the data, I used BeautifulSoup to scrape all the required data, which included the following:
